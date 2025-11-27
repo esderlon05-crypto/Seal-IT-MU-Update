@@ -5,9 +5,9 @@
     {
       "version": "1.0.1",
       "fromVersion": "0.0.0",
-      "downloadUrl": "https://github.com/nikandro21/seal-online-update/releases/download/v1.0.1/patch-1.0.1.zip",
-      "checksum": "2bcca3a6c303160adee514097f8acdae",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v.1.0.1/update.zip",
+      "checksum": "3a89325461328f1ef36e79ecce9482a2",
       "fileSize": 5838919,
       "isMandatory": true,
-      "releaseNotes": "Version 1.0.1:\n- Major combat system overhaul\n- New character classes\n- Performance improvements"
+      "releaseNotes": "Version 1.0.1"
     }
