@@ -3,7 +3,7 @@
       "fromVersion": "0.0.0",
       "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v.1.0.1/update.zip",
       "checksum": "3a89325461328f1ef36e79ecce9482a2",
-      "fileSize": 1081344,
+      "fileSize": 1080279,
       "isMandatory": true,
       "releaseNotes": "Version 1.0.1"
     }
