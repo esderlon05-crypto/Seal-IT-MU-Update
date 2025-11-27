@@ -1,7 +1,3 @@
-   {
-  "latestVersion": "1.0.1",
-  "requireSequentialUpdate": true,
-  "versions": [
     {
       "version": "1.0.1",
       "fromVersion": "1.0.0",
