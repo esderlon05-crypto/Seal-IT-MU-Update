@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.7",
+  "latestVersion": "1.0.8",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -64,6 +64,15 @@
       "fileSize": 16555465,
       "isMandatory": true,
       "releaseNotes": "Version 1.0.7"
+    },
+    {
+      "version": "1.0.8",
+      "fromVersion": "1.0.7",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.8/v1.0.8.zip",
+      "checksum": "592b720d47cf0b0d3a14c1f7b3fff803",
+      "fileSize": 113457,
+      "isMandatory": true,
+      "releaseNotes": "Version 1.0.8"
     },
   ]
 }
