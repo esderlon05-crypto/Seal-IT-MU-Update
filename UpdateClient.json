@@ -149,9 +149,9 @@
     {
       "version": "1.0.15.16",
       "fromVersion": "1.0.15.1",
-      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.15.1/v1.0.15.1.zip",
-      "checksum": "ed96ada6a6c581949456d08a92374075",
-      "fileSize": 14480100,
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.16/v1.0.16.zip",
+      "checksum": "33f095aeb4dd0dd0a8fb2eed7a1b0cad",
+      "fileSize": 15930768,
       "isMandatory": true,
       "releaseNotes": "Version 1.0.16"
     },
