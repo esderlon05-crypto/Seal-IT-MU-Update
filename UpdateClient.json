@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.21",
+  "latestVersion": "1.0.22",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -199,6 +199,15 @@
       "fileSize": 17792293,
       "isMandatory": true,
       "releaseNotes": "Sage Tower Activation"
+    },
+    {
+      "version": "1.0.22",
+      "fromVersion": "1.0.21",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.21/v1.0.21.zip",
+      "checksum": "a49fd5316df5e66de5500c2dbbc59744",
+      "fileSize": 17792293,
+      "isMandatory": true,
+      "releaseNotes": "G16 Activation"
     },
   ]
 }
