@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.22",
+  "latestVersion": "1.0.23",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -208,6 +208,15 @@
       "fileSize": 227419,
       "isMandatory": true,
       "releaseNotes": "G16 Activation"
+    },
+    {
+      "version": "1.0.23",
+      "fromVersion": "1.0.22",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.23/v1.0.23.zip",
+      "checksum": "e23af713854fd4b8ff7543369b5eab0a",
+      "fileSize": 1559105,
+      "isMandatory": true,
+      "releaseNotes": "version 23"
     },
   ]
 }
