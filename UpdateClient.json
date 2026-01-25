@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.25",
+  "latestVersion": "1.0.26",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -235,6 +235,15 @@
       "fileSize": 14737674,
       "isMandatory": true,
       "releaseNotes": "Buff Balie weapon"
+    },
+    {
+      "version": "1.0.26",
+      "fromVersion": "1.0.25",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.26/v1.0.26.zip",
+      "checksum": "1fc3202816b23927a65649552f3f382d",
+      "fileSize": 22284709 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.26"
     },
   ]
 }
