@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.27",
+  "latestVersion": "1.0.28",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -253,6 +253,15 @@
       "fileSize": 2069188 ,
       "isMandatory": true,
       "releaseNotes": "fix Skill DC V27"
+    },
+    {
+      "version": "1.0.28",
+      "fromVersion": "1.0.27",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.28/v1.0.28.zip",
+      "checksum": "6621b41f5d0a296d1d5a3269f55e5025",
+      "fileSize": 15137960 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.28"
     },
   ]
 }
