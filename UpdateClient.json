@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.28",
+  "latestVersion": "1.0.28a",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -262,6 +262,15 @@
       "fileSize": 15137960 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.28"
+    },
+    {
+      "version": "1.0.28a",
+      "fromVersion": "1.0.28",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.28a/v1.0.28a.zip",
+      "checksum": "0407f170f5d671ba330531e3147e5504",
+      "fileSize": 232158 ,
+      "isMandatory": true,
+      "releaseNotes": "Fame Visual Fix"
     },
   ]
 }
