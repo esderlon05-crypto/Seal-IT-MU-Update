@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.32",
+  "latestVersion": "1.0.33",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -298,6 +298,15 @@
       "fileSize": 14476217 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.32 Create Acc Patih Kulkas"
+    },
+    {
+      "version": "1.0.33",
+      "fromVersion": "1.0.32",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.33/v1.0.33.zip",
+      "checksum": "ebf4bef1b7bafb622548dfd09c46c9f9",
+      "fileSize": 14477337 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.32 Create Acc Think Thinks"
     },
   ]
 }
