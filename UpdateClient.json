@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.33",
+  "latestVersion": "1.0.34",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -307,6 +307,15 @@
       "fileSize": 14477337 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.32 Create Acc Think Thinks"
+    },
+    {
+      "version": "1.0.34",
+      "fromVersion": "1.0.33",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.34/v1.0.34.zip",
+      "checksum": "d899abdb8cb18a51ebe097c638b42402",
+      "fileSize": 14476070 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.34 Create Acc A5EP Super Holy"
     },
   ]
 }
