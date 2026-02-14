@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.35",
+  "latestVersion": "1.0.36",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -325,6 +325,15 @@
       "fileSize": 17628649 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.35"
+    },
+    {
+      "version": "1.0.36",
+      "fromVersion": "1.0.35",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.36/v1.0.36.zip",
+      "checksum": "2270a13a26a2cf797ffdeb7ee6707ac4",
+      "fileSize": 16546039 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.36 spirit upgrade"
     },
   ]
 }
