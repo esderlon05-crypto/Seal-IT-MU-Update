@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.37",
+  "latestVersion": "1.0.38",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -343,6 +343,15 @@
       "fileSize": 18010095 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.37 Fix Laser dan Wing special"
+    },
+    {
+      "version": "1.0.38",
+      "fromVersion": "1.0.37",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.38/v1.0.38.zip",
+      "checksum": "6d7614ed7e4d18f9852fdf07b774359d",
+      "fileSize": 18101018 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.38 Happy CNY 2026"
     },
   ]
 }
