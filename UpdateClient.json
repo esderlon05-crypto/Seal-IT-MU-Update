@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.46",
+  "latestVersion": "1.0.47",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -424,6 +424,15 @@
       "fileSize": 15595479 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.46 New Apostle Armor"
+    },
+    {
+      "version": "1.0.47",
+      "fromVersion": "1.0.46",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.47/v1.0.47.zip",
+      "checksum": "76c025ea32d5ac55f269baf77ee8fb9d",
+      "fileSize": 16085250 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.47 New title"
     },
   ]
 }
