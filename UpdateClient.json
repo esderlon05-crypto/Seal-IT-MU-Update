@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.48",
+  "latestVersion": "1.0.49",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -442,6 +442,15 @@
       "fileSize": 16170697 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.48"
+    },
+    {
+      "version": "1.0.49",
+      "fromVersion": "1.0.48",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.49/v1.0.49.zip",
+      "checksum": "a9b05b9709e0f9c42ff39117ce456899",
+      "fileSize": 14919795 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.49 Pet Stage 7 realeased"
     },
   ]
 }
