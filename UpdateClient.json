@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.50",
+  "latestVersion": "1.0.51",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -460,6 +460,15 @@
       "fileSize": 17645886 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.50 Update Pet dan Skill"
+    },
+    {
+      "version": "1.0.51",
+      "fromVersion": "1.0.50",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.51/v1.0.51.zip",
+      "checksum": "0ce21e25029f5d922017b52bea3998ea",
+      "fileSize": 14807594 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.51 Decrease Ingredient"
     },
   ]
 }
