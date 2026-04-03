@@ -484,7 +484,7 @@
       "fromVersion": "1.0.52",
       "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.53/v1.0.53.zip",
       "checksum": "17be500a98fa77e6251bc9ae8f133d09",
-      "fileSize": 18063360 ,
+      "fileSize": 18062382 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.53 Dragon Slayer HTBS"
     },
