@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.53",
+  "latestVersion": "1.0.54",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -487,6 +487,15 @@
       "fileSize": 18062382 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.53 Dragon Slayer"
+    },
+    {
+      "version": "1.0.54",
+      "fromVersion": "1.0.53",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.54/v1.0.54.zip",
+      "checksum": "8b50107e924c24f7f77303abdbeafc0f",
+      "fileSize": 15473847 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.54 Fix Gundul"
     },
   ]
 }
