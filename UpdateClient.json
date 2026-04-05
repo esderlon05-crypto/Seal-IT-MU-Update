@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.54",
+  "latestVersion": "1.0.55",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -496,6 +496,15 @@
       "fileSize": 15473847 ,
       "isMandatory": true,
       "releaseNotes": "V1.0.54 Fix Gundul"
+    },
+    {
+      "version": "1.0.55",
+      "fromVersion": "1.0.54",
+      "downloadUrl": "https://github.com/esderlon05-crypto/Seal-IT-MU-Update/releases/download/v1.0.55/v1.0.55.zip",
+      "checksum": "5ad16ed6efedbb4cee5a465a679991c6",
+      "fileSize": 14483757 ,
+      "isMandatory": true,
+      "releaseNotes": "V1.0.55 Event BBM"
     },
   ]
 }
